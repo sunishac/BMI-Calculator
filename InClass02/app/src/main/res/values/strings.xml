@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_l">Body Mass Index (BMI)</string>
+    <string name="weight">Weight</string>
+    <string name="weight_edittxt" />
+    <string name="lb_textView">lb</string>
+    <string name="bmi_textView">Body Mass Index (BMI)</string>
+    <string name="weight_textview">Weight</string>
+    <string name="weight_edittext"></string>
+    <string name="lb_textview">lb</string>
+    <string name="height_textview">Height</string>
+    <string name="height_edittext" />
+    <string name="feet_textview">feet</string>
+    <string name="inch_edittext" />
+    <string name="inch_textview">inches</string>
+    <string name="calculate_button">Calculate BMI</string>
+    <string name="result">Your BMI:</string>
+    <string name="result2">You are</string>
+    <string name="result_two">You are </string>
+</resources>
